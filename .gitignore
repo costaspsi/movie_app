@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Database
+movies.db
+
+# Logs
+*.log
+run_stdout.txt
+run_error.txt
+
+# Debug
+scan_debug.csv
+
+# Cache / temp
+cache/
+backup/
+
+# Media
+images/
+icons/
+
+# OS
+Thumbs.db
+.DS_Store
